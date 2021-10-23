@@ -1,0 +1,41 @@
+﻿{
+   "CodeGenerationMode": 0,
+   "ContextClassName": "SandboxContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": null,
+   "ProjectRootNamespace": "Auto_complete_server",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Cities]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[GetCities]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": "DESKTOP-AKU6PJI\\SQLEXPRESS.SandBox",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
